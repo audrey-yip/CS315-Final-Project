@@ -18,4 +18,5 @@ def download_tiktok_mp3s(urls):
     return True
 
 if __name__ == "__main__":
+    # Usage: Make a list of tiktok videos from URLs, such as the list below. Then run download_tiktok_mp3s on that list.
     download_tiktok_mp3s(['https://www.tiktokv.com/share/video/7315561816673750318/'])
