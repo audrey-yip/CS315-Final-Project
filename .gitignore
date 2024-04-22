@@ -1,3 +1,4 @@
 .DS_Store
 api_key.py
 data-collection/videos
+data/*
