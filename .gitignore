@@ -3,5 +3,7 @@ api_key.py
 data-collection/videos
 data/
 .venv/
+.cache
+.project3/
 
 data-analysis/kaggle_dataset.csv
